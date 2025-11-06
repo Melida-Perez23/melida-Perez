@@ -38,13 +38,13 @@ Además de programar, me gusta mucho enseñar, documentar y compartir lo que apr
 
 
 
-### Contanctate conmigo 
-<br>	
+### Contáctate conmigo 
+<br>
 
-<a href="https:https://github.com/Melida-Perez23" target="blank">
+<a href="https://github.com/Melida-Perez23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-<a target="_blank" href="mailto: melidaperezvanegas0607@gmail.com ">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</a>
+<a target="_blank" href="mailto:melidaperezvanegas0607@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
 </a>
 <br>
