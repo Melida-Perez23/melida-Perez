@@ -5,7 +5,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Hacerca de mi**
 
 Soy una persona curiosa y creativa a la que le encanta aprender y construir cosas nuevas.  
-Me apasiona el desarrollo web, especialmente el backend, y disfruto encontrar soluciones que hagan la vida un poco más fácil (o al menos más interesante).  
+Me apasiona el desarrollo web, la programacion y aprender un poco de todo, aunque a un me falta por aprender un poco mas sobre herramientas y lenguajes creo que voy buen paso donde empezar
 
 Además de programar, me gusta mucho enseñar, documentar y compartir lo que aprendo  creo que el conocimiento solo tiene sentido cuando se transmite. He trabajado en proyectos de Prisma, Node.js* y bases de datos, y también en la creación de estrategias de capacitación y documentación técnica
 
